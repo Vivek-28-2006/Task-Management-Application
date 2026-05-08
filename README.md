@@ -2,6 +2,8 @@
 
 Full-stack task management app with email/password auth, task CRUD, and a responsive UI.
 
+Publish:https://vivek-28-2006.github.io/Task-Management-Application/
+
 ## Tech Stack
 - Client: React + Vite
 - Server: Node.js + Express
